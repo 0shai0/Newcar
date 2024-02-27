@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/newcar/static/css/main.8a1df076.css",
-    "main.js": "/newcar/static/js/main.f63d6c32.js",
+    "main.css": "/newcar/static/css/main.4a86429f.css",
+    "main.js": "/newcar/static/js/main.3d3dfa22.js",
     "static/js/787.917857b7.chunk.js": "/newcar/static/js/787.917857b7.chunk.js",
     "index.html": "/newcar/index.html",
-    "main.8a1df076.css.map": "/newcar/static/css/main.8a1df076.css.map",
-    "main.f63d6c32.js.map": "/newcar/static/js/main.f63d6c32.js.map",
+    "main.4a86429f.css.map": "/newcar/static/css/main.4a86429f.css.map",
+    "main.3d3dfa22.js.map": "/newcar/static/js/main.3d3dfa22.js.map",
     "787.917857b7.chunk.js.map": "/newcar/static/js/787.917857b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a1df076.css",
-    "static/js/main.f63d6c32.js"
+    "static/css/main.4a86429f.css",
+    "static/js/main.3d3dfa22.js"
   ]
 }
